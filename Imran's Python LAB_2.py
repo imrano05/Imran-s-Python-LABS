@@ -30,7 +30,7 @@ for fruit in fruits:
 print()
 
 # 3. String iteration
-person_name = "Hassan Bhutta"
+person_name = "imran yousaf"
 for char in person_name:
     print(char)
 print()
@@ -67,9 +67,9 @@ for num in range(1, 10):
 print()
 
 # Continue statement
-words = ["I", "Am", "Hassan", "Bhutta"]
+words = ["I", "Am", "imran", "yousaf"]
 for word in words:
-    if word == "Hassan":
+    if word == "imran":
         continue
     print(word)
 
@@ -77,7 +77,7 @@ for word in words:
 
 # Basic function definition and call
 def displayName():
-    print("I am Hassan Bhutta")
+    print("I am imran yousaf")
 
 displayName()
 print()
